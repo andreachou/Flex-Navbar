@@ -26,13 +26,11 @@
     display: flex;
     align-items: center;
     margin-right: 20px;
-
 }
 
 li {
     margin: 10px;
-    list-style-type: none;
-    /* remove bullet points */
+    list-style-type: none; /* remove bullet points */
 }
 
 .active {
@@ -51,4 +49,5 @@ li {
 
 a {
     color: white;
+    /* text-decoration: none;  better use this in css instead of html remove underlink for hyperlinks*/
 }
