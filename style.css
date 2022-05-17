@@ -49,5 +49,5 @@ li {
 
 a {
     color: white;
-    /* text-decoration: none;  better use this in css instead of html remove underlink for hyperlinks*/
+    text-decoration: none; /*better use this in css instead of html remove underlink for hyperlinks*/
 }
